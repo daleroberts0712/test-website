@@ -292,3 +292,197 @@
 #how-we-did-it .build p{
     left: 1028px;
 }
+
+
+/* On-mobile section */
+
+#on-mobile .rectangle12{
+    /* Rectangle 12 */
+    position: absolute;
+    width: 595px;
+    height: 548px;
+    left: -2px;
+    top: 1204px;
+
+    background: #F2F2F2;
+}
+
+#on-mobile .iphone1{
+    /* Apple iPhone X Silver 1 */
+    position: absolute;
+    width: 256px;
+    height: 510px;
+    left: 110px;
+    top: 1242px;
+}
+
+#on-mobile .iphone2{
+    /* Apple iPhone X Silver 2 */
+    position: absolute;
+    width: 240.8px;
+    height: 480px;
+    left: 415px;
+    top: 1328px;
+}
+
+/* on-mobile-text */
+
+.on-mobile-text h1{
+    position: absolute;
+    width: 482px;
+    height: 56px;
+    left: 787px;
+    top: 1355px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+} 
+
+.on-mobile-text p{
+    position: absolute;
+    width: 390px;
+    height: 96px;
+    left: 787px;
+    top: 1427px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.on-mobile-text .rectangle14{
+    /* Rectangle 14 */
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 787px;
+    top: 1568px;
+
+    background: #C4C4C4;
+    opacity: 0.3;
+}
+
+.on-mobile-text .rectangle15{
+    /* Rectangle 15 */
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 891px;
+    top: 1568px;
+
+    background: #C4C4C4;
+    opacity: 0.3;
+}
+
+.on-mobile-text .rectangle16{
+    /* Rectangle 16 */
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 995px;
+    top: 1568px;
+
+    background: #C4C4C4;
+    opacity: 0.3;
+}
+
+
+
+/* Mobile App */
+
+.rectangle13{
+    /* Rectangle 13 */
+    position: absolute;
+    width: 1442px;
+    height: 592px;
+    left: -2px;
+    top: 1986px;
+
+    background: #C4C4C4;
+}
+
+.mobile-app-text h2{
+    position: absolute;
+    width: 482px;
+    height: 56px;
+    left: 126px;
+    top: 2158px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+}
+
+.mobile-app-text p{
+    position: absolute;
+    width: 497px;
+    height: 72px;
+    left: 126px;
+    top: 2230px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+.mobile-app-text .rectangle10{
+    position: absolute;
+    width: 160px;
+    height: 48px;
+    left: 126px;
+    top: 2342px;
+
+    background: #373737;
+    border-radius: 6px;
+}
+
+.mobile-app-text .app-store{
+    position: absolute;
+    width: 70px;
+    height: 24px;
+    left: 168px;
+    top: 2354px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+
+/* Mobile App Images */
+
+.mobile-app-images .iphone3{
+    position: absolute;
+    width: 241.19px;
+    height: 480px;
+    left: 773px;
+    top: 2007px;
+}
+
+.mobile-app-images .iphone4{
+    position: absolute;
+    width: 241.19px;
+    height: 480px;
+    left: 1076px;
+    top: 1886px;
+}
