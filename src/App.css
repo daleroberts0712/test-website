@@ -76,6 +76,8 @@
     color: #000000;
 }
 
+
+
 /* HeroImage styling */
 
 /* Text */
@@ -165,4 +167,128 @@
     top: 100px;
 
     opacity: 0.1;
+}
+
+
+/* Body Section of the website */
+
+/* How we did it section */
+
+#how-we-did-it h3{
+    /* How we did it */
+    position: absolute;
+    width: 217px;
+    height: 42px;
+    left: 104px;
+    top: 794px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #000000;
+}
+
+#how-we-did-it h1{
+    /* Numbers */
+    position: absolute;
+    width: 73px;
+    height: 75px;
+    top: 856px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+
+    color: #000000;
+
+    opacity: 0.1;
+}
+
+#how-we-did-it h4{
+    /* Headers */
+    position: absolute;
+    width: 106px;
+    height: 28px;
+    top: 880px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+
+#how-we-did-it p{
+    /* lorem */
+    position: absolute;
+    width: 244px;
+    height: 96px;
+    top: 924px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #000000;
+}
+
+/* Discovery */
+#how-we-did-it .discovery h1{
+    left: 84px;
+}
+
+#how-we-did-it .discovery h4{
+    left: 104px;
+}
+
+#how-we-did-it .discovery p{
+    left: 104px;
+}
+
+/* Plan */
+#how-we-did-it .plan h1{
+    left: 378px;
+}
+
+#how-we-did-it .plan h4{
+    left: 412px;
+}
+
+#how-we-did-it .plan p{
+    left: 412px;
+}
+
+/* Design */
+#how-we-did-it .design h1{
+    left: 686px;
+}
+
+#how-we-did-it .design h4{
+    left: 720px;
+}
+
+#how-we-did-it .design p{
+    left: 720px;
+}
+
+/* Build */
+#how-we-did-it .build h1{
+    left: 991px;
+}
+
+#how-we-did-it .build h4{
+    left: 1028px;
+}
+
+#how-we-did-it .build p{
+    left: 1028px;
 }

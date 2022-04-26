@@ -5,6 +5,7 @@ import image2 from '../img/image 2.png'
 
 function HeroImage() {
   return (
+      // The Hero Showcase (Intro) //
     <section id="hero-image" className="d-flex">
         <div className="container text">
             <h3>Soul Remedi App</h3>
