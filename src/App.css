@@ -1,0 +1,168 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* NavigationBar styling */
+
+#navbar{
+    /* Rectangle 2 */
+    position: absolute;
+    width: 1440px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+#navbar .navbar-brand{
+    /* Rectangle 1 */
+    position: absolute;
+    width: 197px;
+    height: 48px;
+    left: 56px;
+    top: 16px;
+
+    background: #C4C4C4;
+    opacity: 0.2;
+}
+
+#navbar .navbar-right .services{
+    /* Services */
+    position: absolute;
+    width: 68px;
+    height: 21px;
+    left: 1043px;
+    top: 29px;
+}
+
+#navbar .navbar-right .work{
+    /* Work */
+    position: absolute;
+    width: 42px;
+    height: 21px;
+    left: 1151px;
+    top: 29px;
+}
+
+#navbar .navbar-right .about{
+    /* About */
+    position: absolute;
+    width: 48px;
+    height: 21px;
+    left: 1233px;
+    top: 29px;
+}
+
+#navbar .navbar-right .contact{
+    /* Contact */
+    position: absolute;
+    width: 63px;
+    height: 21px;
+    left: 1321px;
+    top: 29px;
+}
+
+/* Styling of text */
+#navbar .navbar-right a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+
+/* HeroImage styling */
+
+/* Text */
+#hero-image .text h3{
+    /* Soul Remedi App */
+
+    position: absolute;
+    width: 123px;
+    height: 24px;
+    left: 128px;
+    top: 242px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+#hero-image .text h2{
+    /* Making Feng Shui Accessible */
+
+    position: absolute;
+    width: 482px;
+    height: 112px;
+    left: 128px;
+    top: 274px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+}
+
+#hero-image .text p{
+    /* lorem text */
+    position: absolute;
+    width: 390px;
+    height: 72px;
+    left: 128px;
+    top: 402px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+/* Images */
+#hero-image .image-display .image1{
+    /* image 1 */
+    position: absolute;
+    width: 626px;
+    height: 417px;
+    left: 655px;
+    top: 162px;
+
+    mix-blend-mode: multiply;
+}
+
+#hero-image .image-display .rectangle4{
+    /* Rectangle 4 */
+    position: absolute;
+    width: 552px;
+    height: 480px;
+    left: 888px;
+    top: 130px;
+
+    background: #C4C4C4;
+    opacity: 0.2;
+}
+
+#hero-image .image-display .image2{
+    /* image 2 */
+    position: absolute;
+    width: 172px;
+    height: 174px;
+    left: 1119px;
+    top: 100px;
+
+    opacity: 0.1;
+}

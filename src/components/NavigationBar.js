@@ -1,23 +1,21 @@
 import React from 'react'
-import { Navbar, Nav, Container } from 'react-bootstrap';
+import Rectangle1 from '../img/Rectangle 1.png';
 
-// Built the navigation bar with react-bootstrap
+// Built the navigation bar with bootstrap
 function NavigationBar() {
   return (
-    <section id="NavigationBar">
-        <Container>
-            <Navbar class="left">
-                <Nav>
-                    <img src="/img/Rectangle 1.png" alt="Rectangle 1" />
-                </Nav>
-                <Nav class="right">
-                    <Nav.Link href="#" id="services">Services</Nav.Link>
-                    <Nav.Link href="#" id="work">Work</Nav.Link>
-                    <Nav.Link href="#" id="about">About</Nav.Link>
-                    <Nav.Link href="#" id="contact">Contact</Nav.Link>
-                </Nav>
-            </Navbar>
-        </Container>
+    <section id="navbar">
+        <nav className="navbar">
+            <div className="container-fluid d-flex">
+                <a href="#" className="navbar-brand"><img src={Rectangle1} alt="Rectangle 1" /></a>
+                <ul className="navbar-right nav">
+                    <li><a href="#" className="services">Services</a></li>
+                    <li><a href="#" className="work">Work</a></li>
+                    <li><a href="#" className="about">About</a></li>
+                    <li><a href="#" className="contact">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
     </section>
   )
 }
