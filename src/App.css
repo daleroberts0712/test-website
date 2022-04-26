@@ -486,3 +486,257 @@
     left: 1076px;
     top: 1886px;
 }
+
+
+
+/* Contact */
+
+#contact .rectangle3{
+    /* Rectangle 3 */
+    position: absolute;
+    width: 1440px;
+    height: 720px;
+    left: 0px;
+    top: 2578px;
+
+    background: #323232;
+}
+
+/* Contact Details */
+
+.contact-information h2{
+    /* Get in touch */
+    position: absolute;
+    width: 194px;
+    height: 42px;
+    left: 144px;
+    top: 2726px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #FFFFFF;
+}
+
+.ellipse4{
+    /* Ellipse 4 */
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 144px;
+    top: 2812px;
+
+    background: #C4C4C4;
+    opacity: 0.2;
+}
+
+.email-address{
+    /* info@endcrypt3d.co.za */
+    position: absolute;
+    width: 408px;
+    height: 32px;
+    left: 180px;
+    top: 2808px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+
+    color: #FFFFFF;
+}
+
+.ellipse5{
+    /* Ellipse 5 */
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 144px;
+    top: 2868px;
+
+    background: #C4C4C4;
+    opacity: 0.2;
+}
+
+.contact-number{
+    /* +27 000 0000 */
+    position: absolute;
+    width: 408px;
+    height: 32px;
+    left: 180px;
+    top: 2864px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+
+    color: #FFFFFF;
+}
+
+.ellipse6{
+    /* Ellipse 6 */
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 144px;
+    top: 2924px;
+
+    background: #C4C4C4;
+    opacity: 0.2;
+}
+
+.work-address{
+    position: absolute;
+    width: 408px;
+    height: 78px;
+    left: 180px;
+    top: 2920px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+
+    color: #FFFFFF;
+}
+
+
+/* Message */
+
+.message .name{
+    /* Name */
+    position: absolute;
+    width: 443px;
+    height: 32px;
+    left: 720px;
+    top: 2808px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+
+    color: #FFFFFF;
+}
+
+.message .line3{
+    /* Line 3 */
+    position: absolute;
+    width: 520px;
+    height: 0px;
+    left: 721px;
+    top: 2839px;
+
+    opacity: 0.2;
+    border: 1px solid #FFFFFF;
+}
+
+.message .email {
+    /* Email */
+    position: absolute;
+    width: 443px;
+    height: 32px;
+    left: 720px;
+    top: 2880px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+
+    color: #FFFFFF;
+}
+
+.message .line4{
+    /* Line 4 */
+    position: absolute;
+    width: 520px;
+    height: 0px;
+    left: 721px;
+    top: 2912px;
+
+    opacity: 0.2;
+    border: 1px solid #FFFFFF;
+}
+
+.message .message-input {
+    /* Message */
+    position: absolute;
+    width: 443px;
+    height: 32px;
+    left: 720px;
+    top: 2952px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+
+    color: #FFFFFF;
+}
+
+.message .line5{
+    /* Line 5 */
+    position: absolute;
+    width: 520px;
+    height: 0px;
+    left: 721px;
+    top: 2984px;
+
+    opacity: 0.2;
+    border: 1px solid #FFFFFF;
+}
+
+.message .rectangle12{
+    /* Rectangle 12 */
+    position: absolute;
+    width: 160px;
+    height: 48px;
+    left: 1081px;
+    top: 3032px;
+
+    background: #C4C4C4;
+}
+
+.message .send-message{
+    /* Send Message */
+    position: absolute;
+    width: 105px;
+    height: 24px;
+    left: 1108px;
+    top: 3044px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.copyright{
+    position: absolute;
+    width: 443px;
+    height: 32px;
+    left: 144px;
+    top: 3225px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 32px;
+
+    color: #FFFFFF;
+}
